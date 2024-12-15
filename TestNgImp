@@ -23,3 +23,8 @@ PostCondition
 @AfterMethod
 
 
+
+paramertsuite
+pass the parameters from xml
+
+

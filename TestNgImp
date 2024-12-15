@@ -27,4 +27,9 @@ PostCondition
 paramertsuite
 pass the parameters from xml
 
+waits in selenium testng
+Use Implicit Wait for simple cases where all elements take a consistent amount of time to load.
+Use Explicit Wait when you need to wait for specific conditions for particular elements.
+Use Fluent Wait for more complex scenarios requiring polling customization or exception handling
+
 

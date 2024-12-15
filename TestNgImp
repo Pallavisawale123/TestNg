@@ -1,0 +1,25 @@
+TestNG Annotations
+@Test
+@BeforeSuite / @AfterSuite
+@BeforeClass / @AfterClass
+@BeforeTest / @AfterTest
+@BeforeGroups / @AfterGroups
+@BeforeSuite / @AfterSuite
+@BeforeMethod / @AfterMethod
+
+Configurations TestNG Annotations
+PreCondition
+@BeforeSuite
+@BeforeTest
+@BeforeGroups
+@BeforeClass
+@BeforeMethod
+Condition  - @Test
+PostCondition
+@AfterSuite
+@AfterTest
+@AfterGroups
+@AfterClass
+@AfterMethod
+
+
